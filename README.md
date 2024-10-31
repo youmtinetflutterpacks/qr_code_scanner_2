@@ -37,8 +37,6 @@ iOS
 </th>
 </tr>
 
-<tr>
-<td>
 <p align="center">
 </p>
 </td>
